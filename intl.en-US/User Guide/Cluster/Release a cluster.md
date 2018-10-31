@@ -16,7 +16,7 @@ Only Pay-As-You-Go clusters in the following statuses can be released:
 You are prompted to confirm a release before releasing a cluster. Once the release is confirmed, the following operations will happen:
 
 -   All jobs in the cluster are forcibly terminated.
--   If you have selected to save the log to OSS, all current job logs are saved to OSS. It takes several minutes to uplaod logs to OSS.
+-   If you have selected to save the log to OSS, all current job logs are saved to OSS. It takes several minutes to upload logs to OSS.
 -   Clusters are released in seconds, up to five minutes. This process depends on the size of the cluster, the smaller the cluster will be faster. ECS clusters to be released are billed before they are released.
 
     Warning:
