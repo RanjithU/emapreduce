@@ -6,8 +6,6 @@ Currently, Alibaba Cloud provides two types of cloud networks: classic network a
 
 To solve this problem, Alibaba Cloud launches the [ClassicLink Solution](https://www.alibabacloud.com/help/doc-detail/65412.htm).
 
-To solve this problem, Alibaba Cloud launches the ClassLink Solution.
-
 1.  Create a vSwitch according to the CIDR block specified in the ClassLink Solution.
 2.  When creating a cluster, use the vSwitch for the CIDR block to deploy the cluster.
 3.  Connect the corresponding classic network node to VPC in the ECS console.
