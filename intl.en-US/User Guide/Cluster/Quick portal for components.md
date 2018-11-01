@@ -16,5 +16,5 @@ By default, there is no username and password for accessing. Therefore, the acce
 
 Only one username and one password can be used. Therefore, the new username and password will always replace the previous ones.
 
-**Note:** NOTE: Currently, this function is only supported by Version 2.3 and later.
+**Note:** Currently, this function is only supported by Version 2.3 and later.
 
