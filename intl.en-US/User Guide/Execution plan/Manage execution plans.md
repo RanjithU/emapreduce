@@ -3,7 +3,7 @@
 Manage execution plans
 
 1.  Log on to the [Alibaba Cloud E-MapReduce Console Plan Execution Page](https://emr.console.aliyun.com/#/schedule/region/cn-hangzhou).
-2.  Find corresponding execution plan items and click the **Manage**button to enter the execution plan management page. On this page you can:
+2.  Find corresponding execution plan items and click the **Manage** button to enter the execution plan management page. On this page you can:
     -   **View details of the execution plan**
 
         You can view the basic information of execution plans, such as names, associated clusters, job configurations, scheduling strategy and status, alarm information.
